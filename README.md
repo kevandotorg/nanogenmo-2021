@@ -5,7 +5,7 @@ My 2021 NaNoGenMo entry is a choose-your-own-adventure version of Herman Melvill
 
 The original text is broken into sections, which are then reconnected with decision links. Each decision point is created by recasting a sentence from later in the text, from the section that it points to: broadly speaking, it searches for a first-person or second-person fragment that include a past-tense verb, and converts that into a present-tense option: "I duly arrived in New Bedford." becomes "To arrive in New Bedford, turn to page X."
 
-Example output: https://kevan.org/nanogenmo/2021/index.html
+Example output: https://kevan.org/nanogenmo/2021
 
 The text of the linked draft is 247,354 words.
 
