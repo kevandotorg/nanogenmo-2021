@@ -160,7 +160,7 @@
 	// start the output
 	
 	?>
-	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd"><html><head><title>Moby-Dick Choose-Your-Own-Adventure</title>
+	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "https://www.w3.org/TR/html4/strict.dtd"><html><head><title>Some Dim, Random Way: A Choose-Your-Own-Adventure Moby Dick</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <style>
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif&family=IM+Fell+English+SC&display=swap');
